@@ -1,4 +1,4 @@
-## Hi, I'm Higor, a beginner JS programmer in back-end
+## Hi, I'm Higor, a beginner JS programmer in back-end.
 ## Qualquer duvida sobre algum script, entrar em contato pelo insta :)
 
 <div style="display: inline_block"><br>
