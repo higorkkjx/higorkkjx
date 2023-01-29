@@ -1,4 +1,4 @@
-## Oi, sou o higor, um programador inicante back-end.
+## Hi, I'm Higor, a beginner JS programmer in back-end
 
 
 <div style="display: inline_block"><br>
